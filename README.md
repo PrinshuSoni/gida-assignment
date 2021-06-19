@@ -1,5 +1,10 @@
 # gida-task
 
+## Heroku deployed url
+```
+https://gida-assignment.herokuapp.com/
+```
+
 ## Project setup
 ```
 npm install
